@@ -1,5 +1,5 @@
 import turtle as t
-print("物理计算V1.0.0.0 [© 肖斯迪]")
+print("物理计算V1.0.0.0 [© Aogawa]")
 print("输入你要计算的内容 [ 1-浮力 2-压强 3-重力 4-密度]")
 a=int(input("请输入:"))
 print("是否循环绘制图像 [ 1-是 2-否]")
@@ -67,3 +67,4 @@ if b == 2 and a==3:
     print("计算完成")
     print("")
     print("【 G=",G," 】")
+
