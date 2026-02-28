@@ -1,5 +1,5 @@
 import turtle as t
-print("物理计算V1.0.0.0 [© Aogawa]")
+print("初中物理计算器 [Aogawa]")
 print("输入你要计算的内容 [ 1-浮力 2-压强 3-重力 4-密度]")
 a=int(input("请输入:"))
 print("是否循环绘制图像 [ 1-是 2-否]")
@@ -79,4 +79,5 @@ if a==1 and b==1:
         Fft=k*10*D1
         t.goto(k,Fft)
     
+
 
